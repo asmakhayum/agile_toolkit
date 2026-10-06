@@ -1,4 +1,4 @@
- ![Dashboard](dashboard.png)
+ ![Dashboard](Dashboard.png)
 # AI-Assisted Agile Toolkit for Scrum Masters
 
 A set of reusable prompts for the work Scrum Masters repeat every sprint: refining backlog items, running retros, summarizing for stakeholders, and explaining metrics. Each prompt includes a template, a review checklist, and a spot to record your own before/after time.
